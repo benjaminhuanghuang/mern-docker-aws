@@ -4,6 +4,7 @@ Create Mongo-Express-React-Node (MERN) app with Docker and deploy it to AWS
 ## Reference
 - How to create a full stack React/Express/MongoDB app using Docker
   - https://github.com/Joao-Henrique/Docker_Medium_Tutorial
+  - https://github.com/gonzalompp/todolist-reactjs-example
 
 - A Complete Guide To Deploying Your Web App To Amazon Web Service
 
